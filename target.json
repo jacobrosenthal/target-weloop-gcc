@@ -1,6 +1,6 @@
 {
   "name": "weloop-gcc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "inherits": {
     "nordic-nrf51822-gcc-unofficial-fota": "^1.0.0"
   },
